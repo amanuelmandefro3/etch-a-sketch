@@ -1,9 +1,7 @@
-# Etch a sketch
+# Etch-A-Sketch Project
 
-Etch a sketch is odin project web based etch a sketch board project
+This project, titled "Etch-A-Sketch", is a web-based implementation of the classic Etch-A-Sketch toy. It allows users to create sketches by hovering their cursor over a virtual board.
 
-It sketch any etch within a given board by hovering the courser on the
-board
-
-Author: Amanuel Mandefrow Reta
-First Publish: Nov 25/ 2023
+## Author Information
+- Name: Amanuel Mandefrow Reta
+- First Published: November 25, 2023
